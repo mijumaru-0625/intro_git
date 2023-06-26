@@ -4,6 +4,7 @@ Gitの練習をしていきます。
 ・git commit
 ・git rm
 ・git status
+・git diff
 
 このファイルは Shift-JIS で保存されています。
 
